@@ -1,0 +1,28 @@
+.Container3{
+    display: flex;
+    flex-direction: row;
+}
+
+
+.listContainer {
+    background-color: aliceblue;
+    border-radius: 5%;
+    height: 290px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    
+    
+
+}
+
+.listContainer li{
+    margin-left: 50px;
+   
+    
+
+}
+
+
+
+
